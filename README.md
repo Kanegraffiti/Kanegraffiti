@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#fafafa;">🌑 Annabelle Kelechi Nwankwo</h1>
+<h1 align="center" style="color:#fafafa;">🌑 Kelechi Annabelle Nwankwo</h1>
 <p align="center">
   <em><strong>aka Kanegraffiti</strong><br>
   Open Source Enthusiast • Technical Writer • Dev from the Shadows • Queen of Docs & Debugs</em>
