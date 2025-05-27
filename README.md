@@ -31,7 +31,7 @@ I document, I attempt to debug, I design. Often in the dark (electricity issues)
 |--------|-------------|
 | [**Parslet**](https://github.com/Kanegraffiti/Parslet) | A parallel computing framework for Android. Yup, it runs in Termux. |
 | [**Solace**](https://github.com/Kanegraffiti/Solace) | An offline journal/chat app that learns your writing style. |
-| [**Tales from Terminals**](https://talesfromterminals.blogspot.com) | My new blog with sass, bash scripts, and screenshots. |
+| [**Termux Toolkit**](https://github.com/Kanegraffiti/Termux-toolkit) | An essential starter pack for using Termux like a pro. |
 
 ## 🖤 Let's Connect
 
