@@ -17,7 +17,7 @@
 > — Me (or someone I paraphrased dramatically)
 
 Hi! I’m Kelechi, part creative, part Termux gremlin, all passion.  
-I document, I attempt to debug, I design. Often in the dark (electriity issues). Always with flair.
+I document, I attempt to debug, I design. Often in the dark (electricity issues). Always with flair though.
 
 ### What I Do Best:
 - Translate complex code into **clear, helpful docs**
@@ -52,4 +52,4 @@ I document, I attempt to debug, I design. Often in the dark (electriity issues).
 - Loves cats, LOTR and Stardew Valley
 - Thinks **good documentation is a form of activism**
 
-<p align="center"><i>"If you’re looking for the box I’m meant to fit in, here have a flashlight."</i></p>
+<p align="center"><i>"If you’re looking for the box I’m meant to fit in, goodluck."</i></p>
