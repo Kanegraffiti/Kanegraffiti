@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Website-Kelechi's%20Portfolio-2c3e50?style=flat-square&logo=wordpress&logoColor=white" alt="Portfolio Website">
 </p>
 
-## ✨ About Me
+## About Me
 
 > *"Build for the people no one’s building for yet and you won't be irrelevant."*  
 > — Me (or someone I paraphrased dramatically)
@@ -25,7 +25,7 @@ I document, I attempt to debug, I design. Often in the dark (electricity issues)
 - Create random blogs + offline apps that support my mental wellness
 - Write fantasy where African warriors and monsters share screen time with real stakes
 
-## 🔥 Highlight Projects
+## Highlight Projects
 
 | Project | Description |
 |--------|-------------|
@@ -33,12 +33,12 @@ I document, I attempt to debug, I design. Often in the dark (electricity issues)
 | [**Solace**](https://github.com/Kanegraffiti/Solace) | An offline journal/chat app that learns your writing style. |
 | [**Termux Toolkit**](https://github.com/Kanegraffiti/Termux-toolkit) | An essential starter pack for using Termux like a pro. |
 
-## 🖤 Let's Connect
+## Let's Connect
 
 - **Website**: [kelechiannabellenwankwo.com](https://kelechiannabellenwankwo.com)  
 - **Blog**: [Tales from Terminals](https://talesfromterminals.blogspot.com)  
 
-## 🌌 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kanegraffiti&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
@@ -46,7 +46,7 @@ I document, I attempt to debug, I design. Often in the dark (electricity issues)
 </p>
 
 
-## ☕ Random Facts
+## Random Facts
 
 - Uses **Termux** like most devs use IDEs
 - Loves cats, LOTR and Stardew Valley
