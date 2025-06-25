@@ -9,9 +9,8 @@
   <img src="https://img.shields.io/github/stars/Kanegraffiti?style=social" alt="GitHub Stars">
   <img src="https://img.shields.io/badge/Blog-Tales_from_Terminals-8e44ad?style=flat-square&logo=blogger&logoColor=white" alt="Blog">
   <img src="https://img.shields.io/badge/Website-Kelechi's%20Portfolio-2c3e50?style=flat-square&logo=wordpress&logoColor=white" alt="Portfolio Website">
+  ![Profile views](https://komarev.com/ghpvc/?username=Kanegraffiti&label=Profile%20views&color=0e75b6&style=flat)
 </p>
-
-![Profile views](https://komarev.com/ghpvc/?username=Kanegraffiti&label=Profile%20views&color=0e75b6&style=flat)
 
 ## About Me
 
