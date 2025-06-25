@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Website-Kelechi's%20Portfolio-2c3e50?style=flat-square&logo=wordpress&logoColor=white" alt="Portfolio Website">
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=Kanegraffiti&label=Profile%20views&color=0e75b6&style=flat)
+
 ## About Me
 
 > *"Build for the people no one’s building for yet and you won't be irrelevant."*  
@@ -24,6 +26,15 @@ I document, I attempt to debug, I design. Often in the dark (electricity issues)
 - Build Android-first tools like **Parslet** using just Termux and prayers
 - Create random blogs + offline apps that support my mental wellness
 - Write fantasy where African warriors and monsters share screen time with real stakes
+
+### Languages & Tools
+<p align="left">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a>
+</p>
 
 ## Highlight Projects
 
